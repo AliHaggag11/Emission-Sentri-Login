@@ -84,12 +84,3 @@ const LoginForm = () => {
 };
 
 export default LoginForm;
-
-
-// "This is a React component for a user login form. It manages
-//  the input fields for email and password, with state hooks. The
-//   eye icon toggles password visibility. Upon form submission, it 
-//   currently lacks actual login logic. The component uses external 
-//   resources like the react-icons library for icons and an image for 
-//   the logo. It's designed for flexibility and readability, with optimized 
-//   state management. Styling and additional functionality can be added as needed."
